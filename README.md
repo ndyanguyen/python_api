@@ -184,3 +184,23 @@ Add the hotel name and the country as additional information in the hover messag
 
 Grading
 This assignment will be evaluated against the requirements and assigned a grade according to the following table:
+Submission
+To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
+
+NOTE
+You are allowed to miss up to two Challenge assignments and still earn your certificate. If you complete all Challenge assignments, your lowest two grades will be dropped. If you wish to skip this assignment, click Next, and move on to the next module.
+
+Comments are disabled for graded submissions in Bootcamp Spot. If you have questions about your feedback, please notify your instructional staff or your Student Success Manager. If you would like to resubmit your work for an additional review, you can use the Resubmit Assignment button to upload new links. You may resubmit up to three times for a total of four submissions.
+
+IMPORTANT
+It is your responsibility to include a note in the README section of your repo specifying code source and its location within your repo. This applies if you have worked with a peer on an assignment, used code in which you did not author or create sourced from a forum such as Stack Overflow, or you received code outside curriculum content from support staff such as an Instructor, TA, Tutor, or Learning Assistant. This will provide visibility to grading staff of your circumstance in order to avoid flagging your work as plagiarized.
+
+If you are struggling with a Challenge or any aspect of the curriculum, please remember that there are student support services available for you:
+
+Office hours facilitated by your TA(s)
+
+Tutor sessions (sign upLinks to an external site.)
+
+Ask the class Slack channel/get peer support
+
+AskBCS Learning Assistants
